@@ -16,7 +16,7 @@ function About(){
 
     return(
         <div>
-            <h1 style={headingStyle}>About ShopVibe</h1>
+            <marquee behavior="" direction=""><h1 style={headingStyle}>About ShopVibe</h1></marquee>
 
             <img src="images/car1.png" alt="ShopVibe" style={imageStyle} />
             
